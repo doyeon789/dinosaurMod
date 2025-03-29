@@ -1,0 +1,16 @@
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\bin\Debug\net6.0\Dinosaurmod.deps.json
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\bin\Debug\net6.0\Dinosaurmod.dll
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\bin\Debug\net6.0\Dinosaurmod.pdb
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\bin\Debug\net6.0\Microsoft.Xna.Framework.dll
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\bin\Debug\net6.0\StardewModdingAPI.dll
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\bin\Debug\net6.0\StardewValley.dll
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaurmod.csproj.AssemblyReference.cache
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaurmod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaurmod.AssemblyInfoInputs.cache
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaurmod.AssemblyInfo.cs
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaurmod.csproj.CoreCompileInputs.cache
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaur.5994B8B5.Up2Date
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaurmod.dll
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\refint\Dinosaurmod.dll
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\Dinosaurmod.pdb
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net6.0\ref\Dinosaurmod.dll

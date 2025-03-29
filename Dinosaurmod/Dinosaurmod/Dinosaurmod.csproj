@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<!-- Exe → Library로 변경 -->
+		<TargetFramework>net6.0</TargetFramework>
+		<!-- net8.0 → net6.0으로 변경 -->
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="Microsoft.Xna.Framework">
+			<HintPath>..\ddl\Microsoft.Xna.Framework.dll</HintPath>
+		</Reference>
+		<Reference Include="StardewModdingAPI">
+			<HintPath>..\ddl\StardewModdingAPI.dll</HintPath>
+		</Reference>
+		<Reference Include="StardewValley">
+			<HintPath>..\ddl\StardewValley.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

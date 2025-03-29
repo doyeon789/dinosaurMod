@@ -1,0 +1,5 @@
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net8.0\Dinosaurmod.csproj.AssemblyReference.cache
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net8.0\Dinosaurmod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net8.0\Dinosaurmod.AssemblyInfoInputs.cache
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net8.0\Dinosaurmod.AssemblyInfo.cs
+C:\Users\doyeon\Desktop\Coding\C#\Dinosaurmod\Dinosaurmod\obj\Debug\net8.0\Dinosaurmod.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "Name": "Dinosaurmod",
+  "Author": "ddorin",
+  "Version": "1.0.0",
+  "Description": "add disnosaurs",
+  "UniqueID": "ddorin.Dinosaurmod",
+  "EntryDll": "Dinosaurmod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

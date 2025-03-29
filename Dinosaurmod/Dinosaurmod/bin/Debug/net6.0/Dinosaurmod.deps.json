@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dinosaurmod/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xna.Framework": "5.0.5.0",
+          "StardewModdingAPI": "4.2.1.0",
+          "StardewValley": "1.6.15.24356"
+        },
+        "runtime": {
+          "Dinosaurmod.dll": {}
+        }
+      },
+      "Microsoft.Xna.Framework/5.0.5.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.dll": {
+            "assemblyVersion": "5.0.5.0",
+            "fileVersion": "5.1.50918.0"
+          }
+        }
+      },
+      "StardewModdingAPI/4.2.1.0": {
+        "runtime": {
+          "StardewModdingAPI.dll": {
+            "assemblyVersion": "4.2.1.0",
+            "fileVersion": "4.2.1.0"
+          }
+        }
+      },
+      "StardewValley/1.6.15.24356": {
+        "runtime": {
+          "StardewValley.dll": {
+            "assemblyVersion": "1.6.15.24356",
+            "fileVersion": "1.6.15.24356"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dinosaurmod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework/5.0.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StardewModdingAPI/4.2.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StardewValley/1.6.15.24356": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
